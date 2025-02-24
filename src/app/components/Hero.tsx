@@ -1,4 +1,4 @@
-
+import Image from "next/image";
 import { FaFacebook, FaTwitter, FaInstagram, FaLinkedin } from "react-icons/fa";
 
 export default function Hero() {
@@ -53,7 +53,7 @@ export default function Hero() {
       </div>
       <div className="relative flex justify-center md:justify-end">
         <div className="absolute -top-10 md:-top-10 -right-10 w-72 md:w-[500px] h-72 md:h-[500px] bg-purple-500 rounded-tr-[150px] md:rounded-tr-[250px] rounded-bl-[150px] md:rounded-bl-[250px]"></div>
-        <img
+        <Image
           src="/images/home.png"
           alt="Cristian Chiriac"
           width={300}
