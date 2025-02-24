@@ -16,7 +16,7 @@ export default function About() {
           About <span>Me</span>
         </h2>
         <p>
-          Hi there, welcome to my website! I'm Prince,I’m a passionate Graphic
+          Hi there, welcome to my website! I am Prince,I am a passionate Graphic
           Designer dedicated to crafting visually compelling and meaningful
           designs. With a keen eye for aesthetics and a love for creativity, I
           specialize in branding, digital illustrations, and user-friendly
